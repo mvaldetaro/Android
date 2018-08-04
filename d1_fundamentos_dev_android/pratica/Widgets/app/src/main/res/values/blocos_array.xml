@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blocos_array">
+        <item> -- Selecione o bloco --</item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>.NET</item>
+        <item>Front End</item>
+        <item>Computação Básica</item>
+    </string-array>
+</resources>

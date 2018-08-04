@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora Salário Liquido</string>
+    <string name="app_title_resultado">Resultado</string>
+
+    <string name="txt_instrucao">Preencha os campos a seguir:</string>
+
+    <string name="lbl_salario_bruto">Salário Bruto (R$):</string>
+    <string name="lbl_dependentes">Qtd. de Dependentes:</string>
+    <string name="lbl_pensao_alimenticia">Pensão alimentícia (R$):</string>
+    <string name="lbl_plano_saude">Plano de Saúde (R$):</string>
+    <string name="lbl_descontos">Outros descontos (R$):</string>
+    <string name="lbl_salario_liquido">Salário Líquido:</string>
+    <string name="lbl_total_descontos">Total de Descontos:</string>
+    <string name="lbl_porcetagem_descontos">Porcentagem de descontos:</string>
+    <string name="lbl_currency">R$</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_apagar_resultados">Apagar Resultados</string>
+
+</resources>

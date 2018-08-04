@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.edu.infnet.at.cadastro.MainActivity"
+    android:layout_margin="@dimen/activity_margin"
+    >
+
+    <TextView
+        android:id="@+id/descricao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="@dimen/activity_margin"
+        android:layout_marginTop="@dimen/activity_margin"
+        android:text="@string/txt_instrucao" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/descricao"
+        android:layout_below="@+id/descricao"
+        android:layout_marginTop="@dimen/spacer"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+        <EditText
+            android:id="@+id/ipt_nome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_marginTop="@dimen/spacer"
+            android:inputType="textPersonName"
+            android:hint="@string/lbl_nome"
+             />
+
+        <EditText
+            android:id="@+id/ipt_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_marginTop="@dimen/spacer"
+            android:inputType="textEmailAddress"
+            android:hint="@string/lbl_login"/>
+
+        <EditText
+            android:id="@+id/ipt_senha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_marginTop="@dimen/spacer"
+            android:inputType="textPassword"
+            android:hint="@string/lbl_senha"/>
+
+        <EditText
+            android:id="@+id/ipt_senha_check"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_marginTop="@dimen/spacer"
+            android:inputType="textPassword"
+            android:hint="@string/lbl_senha_check"/>
+
+        <EditText
+            android:id="@+id/ipt_cpf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_marginTop="@dimen/spacer"
+            android:inputType="textPersonName"
+            android:hint="@string/lbl_cpf"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/spacer"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout2">
+
+        <Button
+            android:id="@+id/btn_clear"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_limpar"
+            />
+
+        <Button
+            android:id="@+id/btn_save"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_salvar"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_view_contacts"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_lista_contatos"
+            android:onClick="startListContactsActivity"/>
+    </LinearLayout>
+</RelativeLayout>

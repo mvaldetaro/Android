@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dados Profissionais</string>
+
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="action_info">Informações Pessoais</string>
+    <string name="action_form">Formação</string>
+    <string name="action_xp">Experiência Profissional</string>
+    <string name="action_cursos">Cursos</string>
+    <string name="action_publi">Publicações</string>
+
+</resources>

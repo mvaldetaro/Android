@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Contatinhos</string>
+    <string name="txt_instrucao">Preencha os campos a seguir:</string>
+    <string name="lbl_nome">Nome do contato</string>
+    <string name="lbl_telefone">Telefone</string>
+    <string name="lbl_celular">Celular</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_cpf">CPF</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="lbl_cidade">Cidade</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="title_activity_lista">Meus Contatos</string>
+    <string name="btn_lista_contatos">Visualizar Contatos</string>
+    <string name="msg_sucesso">Novo contato Adicionado</string>
+    <string name="msg_validacao">Todos os campo devem ser preenchidos</string>
+    <string name="msg_persritencia_erro">Não foi possível adicionar o contato</string>
+</resources>

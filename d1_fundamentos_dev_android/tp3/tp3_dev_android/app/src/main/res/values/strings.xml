@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dev Android</string>
+    <string name="btn_label">Testar</string>
+    <string name="hello">Hello World!!!</string>
+    <string name="placeholder">Digite seu nome</string>
+    <string name="toastyMsg">Um simples "Hello World" pra dá sorte.</string>
+</resources>

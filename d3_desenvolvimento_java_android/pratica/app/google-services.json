@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856614882225",
+    "firebase_url": "https://todo-6d354.firebaseio.com",
+    "project_id": "todo-6d354",
+    "storage_bucket": "todo-6d354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856614882225:android:2a246c54c15657bd",
+        "android_client_info": {
+          "package_name": "br.com.gamehub.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856614882225-383ph6plvc5p8tshmrb9oikhn9v6u97u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gamehub.signin",
+            "certificate_hash": "319a35c3720d57b395701705e379c08f41e0832d"
+          }
+        },
+        {
+          "client_id": "856614882225-omvkid2ik9eeicnlla0oef1o59p5qo0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6scGr8mNmNmig1PB_c_0ML17I7LoL6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856614882225-omvkid2ik9eeicnlla0oef1o59p5qo0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

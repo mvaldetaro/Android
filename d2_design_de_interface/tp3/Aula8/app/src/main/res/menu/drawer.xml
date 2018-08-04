@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/naviagation_item_attacment"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_white_24px"
+            android:title="Attacment" />
+        <item
+            android:id="@+id/naviagation_item_images"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_white_24px"
+            android:title="Images" />
+        <item
+            android:id="@+id/naviagation_item_location"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_white_24px"
+            android:title="Location" />
+    </group>
+    <item
+        android:title="submenu"
+        <menu>
+            <item
+                android:id="@+id/naviagation_item_subitem"
+                android:checked="true"
+                android:icon="@drawable/ic_menu_white_24px"
+                android:title="Subitem" />
+        </menu>
+    />
+</menu>

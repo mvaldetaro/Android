@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="small_text">Texto Pequeno</string>
+    <string name="medium_text">Texto Médio</string>
+    <string name="large_text">Texto grande</string>
+    <string name="proxima_tela">Próxima Tela</string>
+    <string name="form_title">Formulário</string>
+    <string name="hint_nome">Nome Completo</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_senha_numerica">Senha numérica</string>
+    <string name="hint_email">E-mail</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="options_title">Widgets Opções Usuário</string>
+    <string name="pergunta1">Blocos que vc cursou?</string>
+    <string name="pergunta2">Qual o OS do seu celular?</string>
+    <string name="pergunta3">Qual você está cursando?</string>
+    <string name="btn_salvar">Salvar</string>
+</resources>

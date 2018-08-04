@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TOODU List</string>
+    <string name="img_logo_description">Logo TOODU List</string>
+
+    <string name="txt_instrucao">Preencha os campos a seguir:</string>
+    <string name="txt_ola">TooDu List!</string>
+    <string name="txt_login_instrucao_pt1">Preencha os campos abaixo com seu login e senha ou cadastre-se.</string>
+    <string name="txt_login_instrucao_pt2">ou acesse com sua conta do Facebook.</string>
+    <string name="txt_cadastro_instrucao">Preencha os campos a seguir para realizar seu cadastro.</string>
+    <string name="txt_no_comments">Nenhum comentário feito.</string>
+
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_login">Login (Email)</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="lbl_senha_check">Confirmar Senha</string>
+    <string name="lbl_cpf">CPF</string>
+    <string name="lbl_nova_tarefa">Adicionar nova tarefa</string>
+    <string name="lbl_add_comment">Escreva um comentário</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_cadastro">Cadastre-se</string>
+    <string name="btn_comentar">Enviar</string>
+    <string name="btn_facebook">Entrar via Facebook</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_lista_tarefas_finalizadas">Mostrar tarefas concluídas</string>
+
+    <string name="action_logout">Logout</string>action_about
+    <string name="action_about">Sobre</string>
+    <string name="action_privacy">Política de Privacidade</string>
+
+    <string name="title_activity_main">Minhas Tarefas</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="title_activity_complete">Tarefas Concluídas</string>
+    <string name="title_activity_detail">Detalhes da Tarefa</string>
+
+    <string name="title_area_comentarios">Comentários</string>
+
+
+    <string name="msg_sucesso">Novo contato Adicionado</string>
+    <string name="msg_validacao">Todos os campo devem ser preenchidos</string>
+    <string name="msg_persritencia_erro">Não foi possível adicionar o contato</string>
+
+    <string name="facebook_app_id">168399913757065</string>
+    <string name="fb_login_protocol_scheme">fb168399913757065</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9332400519043522/4936897144</string>
+    <string name="title_activity_policy_pivacity">Política de Privacidade</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

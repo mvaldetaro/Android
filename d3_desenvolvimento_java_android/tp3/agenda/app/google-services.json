@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387363253179",
+    "firebase_url": "https://tp3-dev-android-6749e.firebaseio.com",
+    "project_id": "tp3-dev-android-6749e",
+    "storage_bucket": "tp3-dev-android-6749e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387363253179:android:7f1cf8d9ee8f03cb",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.at.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387363253179-3bbfprlb5n4o9u97n7j12llbdgkrmjm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.infnet.at.agenda",
+            "certificate_hash": "319a35c3720d57b395701705e379c08f41e0832d"
+          }
+        },
+        {
+          "client_id": "387363253179-4i98vjsd107meisedc8gs6134ktqdc2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbuKbMAlPIB0SyJ2WRuRc_mumkip-BkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387363253179-4i98vjsd107meisedc8gs6134ktqdc2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

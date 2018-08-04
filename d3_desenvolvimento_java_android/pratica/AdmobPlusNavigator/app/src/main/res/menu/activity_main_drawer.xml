@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_areas"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_meus_canais"
+            android:icon="@drawable/ic_rss_feed_black_24px"
+            android:title="@string/nav_meus_canais" />
+        <item
+            android:id="@+id/nav_consoles"
+            android:icon="@drawable/ic_videogame_asset_black_24px"
+            android:title="@string/nav_consoles" />
+        <item
+            android:id="@+id/nav_jogos"
+            android:icon="@drawable/ic_videogame_asset_black_24px"
+            android:title="@string/nav_jogos" />
+        <item
+            android:id="@+id/nav_controllers"
+            android:icon="@drawable/ic_games_black_24px"
+            android:title="@string/nav_controllers" />
+        <item
+            android:id="@+id/nav_acessorios"
+            android:icon="@drawable/ic_headset_mic_black_24px"
+            android:title="@string/nav_acessorios" />
+    </group>
+
+    <group
+        android:id="@+id/group_user"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_account_circle_black_24px"
+            android:title="@string/nav_perfil" />
+    </group>
+
+    <group
+        android:id="@+id/group_app"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sobre"
+            android:title="@string/nav_sobre" />
+        <item
+            android:id="@+id/nav_politicas"
+            android:title="@string/nav_politicas" />
+    </group>
+
+
+</menu>

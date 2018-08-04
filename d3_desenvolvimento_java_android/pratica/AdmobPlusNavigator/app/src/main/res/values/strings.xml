@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AdmobPlusNavigator</string>
+
+    <string name="navigation_drawer_open">Menu de navegação aberto</string>
+    <string name="navigation_drawer_close">Menu de navegação fechado</string>
+
+    <!-- Config menu -->
+    <string name="action_settings">Definir canais</string>
+    <string name="action_notify">Gerenciar notificações</string>
+
+    <!-- adMob ID -->
+    <string name="banner_ad_unit_id">ca-app-pub-9332400519043522/4936897144</string>
+
+    <!-- Nav Menu -->
+
+    <string name="nav_meus_canais">Meus Canais</string>
+    <string name="nav_consoles">Consoles</string>
+    <string name="nav_jogos">Jogos</string>
+    <string name="nav_controllers">Joysticks/Controllers</string>
+    <string name="nav_acessorios">Acessórios</string>
+    <string name="nav_perfil">Perfil</string>
+    <string name="nav_sobre">Sobre</string>
+    <string name="nav_politicas">Políticas de Privacidade</string>
+
+
+    <!-- Strings related to Settings -->
+
+
+</resources>

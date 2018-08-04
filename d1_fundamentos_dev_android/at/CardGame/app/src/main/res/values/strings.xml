@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jogo de Adivinhação</string>
+    <string name="instrucao">Selecione uma carta</string>
+    <string name="btn_action">Confirmar</string>
+    <string name="btn_reboot">Tentar novamente</string>
+    <string name="fdb_fail">Você escolheu o coringa! Perdeu!</string>
+    <string name="fdb_win">Parabéns! Escapou do coringa!</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Atividades</string>
+    <string name="txt_instrucao">Preencha os campos a seguir:</string>
+
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_login">Login (Email)</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="lbl_senha_check">Confirmar Senha</string>
+    <string name="lbl_cpf">CPF</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_cadastro">Cadastro</string>
+    <string name="btn_facebook">Entrar via Facebook</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_lista_tarefas">Visualizar Tarefas</string>
+
+    <string name="title_activity_lista">Minhas Tarefas</string>
+
+    <string name="msg_sucesso">Novo contato Adicionado</string>
+    <string name="msg_validacao">Todos os campo devem ser preenchidos</string>
+    <string name="msg_persritencia_erro">Não foi possível adicionar o contato</string>
+
+    <string name="facebook_app_id">1413411052111888</string>
+    <string name="fb_login_protocol_scheme">fb1413411052111888</string>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+
+
+</resources>
